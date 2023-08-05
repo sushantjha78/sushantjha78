@@ -2,8 +2,8 @@
 <h3 align="center">A technophile with a passion for building diverse softwares.</h3>
 
 A snapshot of me:
-- 🔭 I’m currently working on developing apps for Android and iOS.
-- 🌱 I’m exploring the fast-growing AR technologies.
+- 🔭 I’m currently working on Web and Android app development.
+- 🌱 I’m also exploring the field of AR technologies.
 - 📫 How to reach me: sushanthkumar78@gmail.com
 - ⚡ Fun fact: I'm not sure if I'm a polyglot or just a programmer with too much time on my hands.
 
