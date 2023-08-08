@@ -111,6 +111,14 @@ A snapshot of me:
       height="80"
     />
   </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
