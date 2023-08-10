@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">A technophile with a passion for building diverse softwares.</h3>
+<h3 align="center">An avid lover of technology.</h3>
 
 A Glimpse of Myself:
 - 🚀 Presently engaged in the realms of Web and Android app development.
