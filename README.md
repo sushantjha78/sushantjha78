@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">A technophile with a passion for building diverse softwares.</h3>
 
-A snapshot of me:
-- 🔭 I’m currently working on Web and Android app development.
-- 🌱 I’m also passionate about the field of generative AI.
-- 📫 How to reach me: sushanthkumar78@gmail.com
-- ⚡ Fun fact: I'm not sure if I'm a polyglot or just a programmer with too much time on my hands.
+A Glimpse of Myself:
+- 🚀 Presently engaged in the realms of Web and Android app development.
+- 🤖 Additionally, I harbor a deep-seated enthusiasm for the domain of generative AI.
+- 📬 Feel free to reach out to me at sushanthkumar78@gmail.com.
+- ⚡ An amusing tidbit: I often contemplate whether I'm a polyglot or merely a programmer with an abundance of spare time.
 
 
 <h3 align="left">Languages and Tools:</h3>
