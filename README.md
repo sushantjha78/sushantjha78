@@ -92,9 +92,6 @@ A Glimpse of Myself:
     height="80"
   />
 </a>
-</br>
-
-
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img
