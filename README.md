@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">An avid lover of technology.</h3>
 
-A Glimpse of Myself:
-- 🚀 Presently engaged in the realms of Web and Android app development.
-- 🤖 Additionally, I harbor a deep-seated enthusiasm for the domain of generative AI.
-- 📬 Feel free to reach out to me at sushanthkumar78@gmail.com.
-- ⚡ An amusing tidbit: I often contemplate whether I'm a polyglot or merely a programmer with an abundance of spare time.
+About me:
+- 🚀 Currently focused on Web and Android application development.
+- 🤖 Passionate about exploring and building with Generative AI technologies.
+- 📬 Open to collaboration and opportunities — feel free to reach out at sushanthkumar78@gmail.com
+- ⚡ Continuously striving to expand my skill set and build impactful, scalable solutions.
 
 
 <h3 align="left">Languages and Tools:</h3>
